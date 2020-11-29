@@ -1,0 +1,25 @@
+.searchBtn {
+  position: relative;
+  top: 10px;
+}
+
+.buttonBar {
+  align-self: baseline;
+  position: relative;
+  left: 11%;
+}
+
+.makeSpace {
+  margin-left: 10px;
+}
+
+.inlineBlock {
+  display: inline-block;
+}
+.makespaceButtom {
+  margin-bottom: 30px;
+}
+
+.makespacetop {
+  margin-top: 60px;
+}
